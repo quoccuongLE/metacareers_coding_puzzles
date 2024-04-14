@@ -1,0 +1,7 @@
+name: rvn
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11
+  - conda-forge::numpy
