@@ -1,4 +1,4 @@
-name: rvn
+name: meta_coding
 channels:
   - defaults
   - conda-forge
