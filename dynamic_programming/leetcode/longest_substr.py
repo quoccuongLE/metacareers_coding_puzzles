@@ -1,5 +1,9 @@
-
-
+# Longest Substring Without Repeating Characters
+# https://leetcode.com/problems/
+# Input: s = "pwwkew"
+# Output: 3
+# Explanation: The answer is "wke", with the length of 3.
+# Notice that the answer must be a substring, "pwke" is a subsequence and not a substring.
 def lengthOfLongestSubstring(s: str) -> int:
     longest_substr = current_substr = ''
     r = 0
